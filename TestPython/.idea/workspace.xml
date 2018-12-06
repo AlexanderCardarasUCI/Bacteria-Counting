@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ae95cc5-6c87-4ab7-b390-7f0e94018778" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-912550485">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="py" value="28225" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Python" value="28225" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="2" />
+          <entry key="png" value="1" />
+          <entry key="py" value="14" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542588358814" expanded="true" signature="1802:2072" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="183" selection-start-line="183" selection-end-line="183" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542617572120" expanded="true" signature="164:165" ph="..." />
+                <marker date="1542617572120" expanded="true" signature="164:361" ph="..." />
+                <marker date="1542617572120" expanded="true" signature="3651:3883" ph="..." />
+                <marker date="1542617572120" expanded="true" signature="6108:7555" ph="..." />
+                <marker date="1542617572120" expanded="true" signature="7554:7555" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BacteriaManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1542524252641" expanded="true" signature="499:504" ph="..." />
+                <marker date="1542524252641" expanded="true" signature="715:803" ph="..." />
+                <marker date="1542524252641" expanded="true" signature="997:1627" ph="..." />
+                <marker date="1542524252641" expanded="true" signature="3491:3497" ph="..." />
+                <marker date="1542524252641" expanded="true" signature="6882:6963" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bacteria.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542647690581" expanded="true" signature="697:702" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="1305:1310" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="1305:1358" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="4706:4852" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="4909:5032" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="5122:5131" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="6008:6065" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="6587:7381" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="7411:7420" ph="..." />
+                <marker date="1542647690581" expanded="true" signature="8633:8751" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-end-line="39" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CustomFilter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1542216707263" expanded="true" signature="1414:1430" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shape</find>
+      <find>fillContours</find>
+      <find>draw_bac</find>
+      <find>print</find>
+      <find>s</find>
+      <find>update</find>
+      <find>set</find>
+      <find>match</find>
+      <find>self.velocity</find>
+      <find>found s</find>
+      <find>parent</find>
+      <find>found</find>
+      <find>predi</find>
+      <find>velocity</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Conversions.py" />
+        <option value="$PROJECT_DIR$/CustomFilter.py" />
+        <option value="$PROJECT_DIR$/Bacteris.py" />
+        <option value="$PROJECT_DIR$/BacteriaManager.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/ImageHelper.py" />
+        <option value="$PROJECT_DIR$/Bacteria.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="555" />
+    <option name="y" value="42" />
+    <option name="width" value="715" />
+    <option name="height" value="681" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestPython" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae95cc5-6c87-4ab7-b390-7f0e94018778" name="Default Changelist" comment="" />
+      <created>1537659439702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537659439702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17235902" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26575342" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/download.png" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-841052054/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="3047" column="4" selection-start-line="3047" selection-start-column="4" selection-end-line="3047" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542216707263" expanded="true" signature="1414:1430" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bacteria-animation.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542588358814" expanded="true" signature="1802:2072" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BacteriaManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1542524252641" expanded="true" signature="499:504" ph="..." />
+            <marker date="1542524252641" expanded="true" signature="715:803" ph="..." />
+            <marker date="1542524252641" expanded="true" signature="997:1627" ph="..." />
+            <marker date="1542524252641" expanded="true" signature="3491:3497" ph="..." />
+            <marker date="1542524252641" expanded="true" signature="6882:6963" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="183" selection-start-line="183" selection-end-line="183" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542617572120" expanded="true" signature="164:165" ph="..." />
+            <marker date="1542617572120" expanded="true" signature="164:361" ph="..." />
+            <marker date="1542617572120" expanded="true" signature="3651:3883" ph="..." />
+            <marker date="1542617572120" expanded="true" signature="6108:7555" ph="..." />
+            <marker date="1542617572120" expanded="true" signature="7554:7555" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bacteria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1542647690581" expanded="true" signature="697:702" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="1305:1310" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="1305:1358" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="4706:4852" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="4909:5032" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="5122:5131" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="6008:6065" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="6587:7381" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="7411:7420" ph="..." />
+            <marker date="1542647690581" expanded="true" signature="8633:8751" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
